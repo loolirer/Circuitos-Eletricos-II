@@ -1,6 +1,6 @@
 # Banco de Capacitores 🔋
 
-Repositório dedicado ao desenvolvimento ao projeto de dimensionamento de um **Banco de Capacitores** da matéria de Circuitos Elétricos II do curso de Engenharia Elétrica da UFCG.
+Diretório dedicado ao desenvolvimento ao projeto de dimensionamento de um **Banco de Capacitores** da matéria de Circuitos Elétricos II do curso de Engenharia Elétrica da UFCG.
 
 A resolução será composta de um *Notebook Jupyter* para análise dos dados fornecidos de uma indústria utilizando as bibliotecas *NumPy*, *Pandas* e *Plotly*.
 
